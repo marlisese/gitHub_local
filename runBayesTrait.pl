@@ -15,3 +15,4 @@ exit 0;
 # uses one tree, but could use multiple if nexus file contains more 
 # usage : ./runBayesTrait.pl path/to/data /path/to/program/
 # specify names of simulations file , tree file and # of simulations inside
+# command_multiple.txt is a file with the numbers of the analyses in BayesRates, i.e. 2 1 Run
